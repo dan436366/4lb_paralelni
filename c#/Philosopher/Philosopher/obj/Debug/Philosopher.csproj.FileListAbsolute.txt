@@ -1,0 +1,7 @@
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\obj\Debug\Philosopher.csproj.AssemblyReference.cache
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\obj\Debug\Philosopher.csproj.CoreCompileInputs.cache
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\bin\Debug\Philosopher.exe.config
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\bin\Debug\Philosopher.exe
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\bin\Debug\Philosopher.pdb
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\obj\Debug\Philosopher.exe
+D:\study\university3\paralelni\4\c#\Philosopher\Philosopher\obj\Debug\Philosopher.pdb
