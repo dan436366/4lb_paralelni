@@ -4,7 +4,7 @@ using System.Threading;
 public class WaiterTable
 {
     private readonly Semaphore[] forks = new Semaphore[5];
-    private readonly Semaphore waiters = new Semaphore(2, 2);
+    private readonly Semaphore waiters = new Semaphore(4, 4);
 
     public WaiterTable()
     {
