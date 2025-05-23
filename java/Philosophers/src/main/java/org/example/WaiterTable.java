@@ -4,7 +4,7 @@ import java.util.concurrent.Semaphore;
 
 public class WaiterTable {
     private final Semaphore[] forks = new Semaphore[5];
-    private final Semaphore waiters = new Semaphore(2);
+    private final Semaphore waiters = new Semaphore(4);
 
     public WaiterTable() {
         for (int i = 0; i < forks.length; i++) {
